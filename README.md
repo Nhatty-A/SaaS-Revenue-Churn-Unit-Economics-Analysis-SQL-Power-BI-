@@ -66,7 +66,7 @@ Customer Segmentation
 - Starter plan has the highest churn (70%), suggesting weak product-market fit or pricing mismatch
 - Monthly subscriptions churn significantly more (60%) than annual plans (40%), highlighting billing structure as a key driver
 - Top churn drivers are Budget Cuts, Price Sensitivity, and Company Closures
-- Enterprise customers generate the highest CLV (~$13.5K), while Starter customers contribute minimal long-term value (~$300)
+- Enterprise customers generate the highest CLV ($13.5K), while Starter customers contribute minimal long-term value ($300)
 - CLV:CAC ratio varies significantly, with Enterprise being highly profitable and Starter barely covering acquisition cost
 - Over 65% of customers are flagged as at-risk, based on low feature usage and low NPS
 ### Business Recommendations
