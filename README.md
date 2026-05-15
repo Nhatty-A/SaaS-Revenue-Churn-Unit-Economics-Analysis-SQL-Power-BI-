@@ -28,7 +28,7 @@ Unit economics modeling (CLV, CAC, CLV:CAC ratio)
 Behavioral analysis using feature usage and NPS to identify at-risk customers
 Interactive dashboard built in Power BI for visualization and stakeholder insights
 
-##  SKILLS (this is VERY important)
+##  SKILLS 
   ### Tools & Technologies
 
 SQL Server (data querying and aggregation)
@@ -59,7 +59,7 @@ Customer Acquisition Cost (CAC)
 Net Revenue Retention
 Customer Segmentation
 
-## RESULTS & BUSINESS RECOMMENDATIONS (MOST IMPORTANT)
+## RESULTS & BUSINESS RECOMMENDATIONS 
 
 ### Key Findings:
 - High overall churn (52%) indicates significant retention issues
